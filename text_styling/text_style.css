@@ -1,0 +1,9 @@
+p {
+    line-height: 500px;
+    text-indent: 200px;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    margin: 20px;
+}

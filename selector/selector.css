@@ -1,0 +1,23 @@
+/*element selector*/
+h1 {
+    color: red;
+}
+
+/* class selector*/
+.content {
+    font-family: AppleMyungjo, sans-serif;
+
+}
+
+/* class selector */
+.content h2 {
+    color: aqua;
+}
+
+/*
+    id selector
+    should be use with unique val
+*/
+#article h2 {
+    color: bisque;
+}
